@@ -7,15 +7,15 @@ export const site = {
   tagline: 'Tours & Travels',
 
   // Replace with the real business contact details
-  phone: '021 3450 0749',
-  phoneRaw: '+922134500749', // used for tel: links
-  whatsapp: '02134500749', // digits only, no "+" or spaces (used for wa.me links)
+  phone: '0345 2929973',
+  phoneRaw: '+92345 2929973', // used for tel: links
+  whatsapp: '+92345 2929973', // digits only, no "+" or spaces (used for wa.me links)
   email: 'info@yourdomain.com',
   location: 'Office No.01 Ground Floor Plot No.37 Sheet No.5, Abbasi Market, Model Colony Lasi Para, Karachi, 75100, Pakistan',
 
   social: {
-    facebook: '#',
-    instagram: '#',
+    facebook: 'https://www.facebook.com/goldentriptours/',
+    instagram: 'https://www.instagram.com/goldentriptt?fbclid=IwY2xjawUZe11wZG9mBWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR6NQay-8pgkH9YagArjQd6t9RIDehvq0IAXG4Mxzdd8jTNKUcfG4WSu-0UPfA_aem_h1pjDir8cewjOfqbTJFDKQ',
   },
 
   whatsappMessage:
