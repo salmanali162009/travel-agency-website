@@ -8,8 +8,8 @@ export const site = {
 
   // Replace with the real business contact details
   phone: '0345 2929973',
-  phoneRaw: '+92345 2929973', // used for tel: links
-  whatsapp: '+92345 2929973', // digits only, no "+" or spaces (used for wa.me links)
+  phoneRaw: '+92 345 2929973', // used for tel: links
+  whatsapp: '+92 345 2929973', // digits only, no "+" or spaces (used for wa.me links)
   email: 'info@yourdomain.com',
   location: 'Office No.01 Ground Floor Plot No.37 Sheet No.5, Abbasi Market, Model Colony Lasi Para, Karachi, 75100, Pakistan',
 
